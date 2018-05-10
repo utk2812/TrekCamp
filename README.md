@@ -5,6 +5,10 @@ User can even delete his campground.
 User can post comment on the campground and can even delete/edit his comment.
 
 
+The website is RESTFUL and a User can Create,Read,Update and Destroy.
+
+
+
 
 
 Technology used:
